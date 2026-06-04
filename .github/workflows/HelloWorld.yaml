@@ -9,7 +9,7 @@ on:
 
   pull_request:
     branches:
-       -min
+       -main
 
   workflow_dispatch: 
 
