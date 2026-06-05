@@ -24,5 +24,3 @@ jobs:
         - name: Hello
           run: echo "Hello World"
           shell: bash
-          run: echo "Hello World2"
-          shell: bash
